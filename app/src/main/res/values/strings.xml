@@ -1,3 +1,75 @@
 <resources>
     <string name="app_name">ClimaTe</string>
+    <string name="search_city">Pesquisar</string>
+
+    <string name="thunderstorm_light_rain">Trovoada com chuva leve</string>
+    <string name="thunderstorm_rain">Trovoada com chuva</string>
+    <string name="thunderstorm_heavy_rain">Trovoada com chuva forte</string>
+    <string name="light_thunderstorm">Trovoada leve</string>
+    <string name="thunderstorm">Trovoada</string>
+    <string name="heavy_thunderstorm">Trovoada forte</string>
+    <string name="ragged_thunderstorm">Trovoada irregular</string>
+    <string name="thunderstorm_light_drizzle">Trovoada com garoa leve</string>
+    <string name="thunderstorm_drizzle">Trovoada com garoa</string>
+    <string name="thunderstorm_heavy_drizzle">Trovoada com garoa forte</string>
+
+
+    <!-- Grupo 3xx: Chuvisco -->
+    <string name="light_drizzle">Garoa de intensidade leve</string>
+    <string name="drizzle">Garoa</string>
+    <string name="heavy_intensity_drizzle">Chuva forte e intensa</string>
+    <string name="light_drizzle_rain">Intensidade da luz garoa chuva</string>
+    <string name="drizzle_rain">Chuva fina</string>
+    <string name="heavy_intensity_drizzle_rain">Chuva com garoa forte e intensa</string>
+    <string name="rain_and_drizzle">Chuva e garoa</string>
+    <string name="heavy_rain_and_drizzle">Chuva forte e garoa</string>
+    <string name="shower_drizzle">Garoa de chuveiro</string>
+
+
+    <!-- Grupo 5xx: Chuva -->
+    <string name="light_rain">Chuva leve</string>
+    <string name="moderate_rain">Chuva moderada</string>
+    <string name="heavy_intensity_rain">Chuva de intensidade forte</string>
+    <string name="very_heavy_rain">Chuva muito forte</string>
+    <string name="extreme_rain">Chuva extrema</string>
+    <string name="freezing_rain">Chuva congelante</string>
+    <string name="light_shower_rain">Chuva leve de pancadas</string>
+    <string name="shower_rain">Pancadas de chuva</string>
+    <string name="heavy_shower_rain">Pancadas de chuva forte</string>
+    <string name="ragged_shower_rain">Pancadas de chuva irregulares</string>
+
+    <!-- Grupo 6xx: Neve -->
+    <string name="light_snow">Neve leve</string>
+    <string name="snow">Neve</string>
+    <string name="heavy_snow">Neve forte</string>
+    <string name="sleet">Chuva com neve</string>
+    <string name="light_shower_sleet">Pancadas leves de chuva com neve</string>
+    <string name="shower_sleet">Pancadas de chuva com neve</string>
+    <string name="light_rain_and_snow">Chuva leve e neve</string>
+    <string name="rain_and_snow">Chuva e neve</string>
+    <string name="light_shower_snow">Pancadas leves de neve</string>
+    <string name="shower_snow">Pancadas de neve</string>
+    <string name="heavy_shower_snow">Pancadas fortes de neve</string>
+
+    <!-- Grupo 7xx: Atmosfera -->
+    <string name="mist">Nevoeiro</string>
+    <string name="smoke">Fumaça</string>
+    <string name="haze">Névoa</string>
+    <string name="dust">Turbilhão de areia/pó</string>
+    <string name="fog">Névoa densa</string>
+    <string name="sand">Areia</string>
+    <string name="dust_2">Poeira</string>
+    <string name="ash">Cinzas vulcânicas</string>
+    <string name="squall">Raios</string>
+    <string name="tornado">Tornado</string>
+
+    <!-- Grupo 800: Céu Limpo -->
+    <string name="clear_sky">Céu limpo</string>
+
+    <!-- Grupo 80x: Nuvens -->
+    <string name="few_clouds">Poucas nuvens: 11-25%</string>
+    <string name="scattered_clouds">Nuvens dispersas: 25-50%</string>
+    <string name="broken_clouds">Nuvens fragmentadas: 51-84%</string>
+    <string name="overcast_clouds">Nuvens encobertas: 85-100%</string>
+
 </resources>

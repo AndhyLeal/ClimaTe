@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClimaTe</string>
+    <string name="search_city">Search</string>
+
+    <string name="thunderstorm_light_rain">Thunderstorm with light rain</string>
+    <string name="thunderstorm_rain">Thunderstorm with rain</string>
+    <string name="thunderstorm_heavy_rain">Thunderstorm with heavy rain</string>
+    <string name="light_thunderstorm">Light thunderstorm</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="heavy_thunderstorm">Heavy thunderstorm</string>
+    <string name="ragged_thunderstorm">Ragged thunderstorm</string>
+    <string name="thunderstorm_light_drizzle">Thunderstorm with light drizzle</string>
+    <string name="thunderstorm_drizzle">Thunderstorm with drizzle</string>
+    <string name="thunderstorm_heavy_drizzle">Thunderstorm with heavy drizzle</string>
+
+
+    <!-- Group 3xx: Drizzle -->
+    <string name="light_drizzle">Light drizzle</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="heavy_intensity_drizzle">Heavy intensity drizzle</string>
+    <string name="light_drizzle_rain">Light drizzle rain</string>
+    <string name="drizzle_rain">Drizzle rain</string>
+    <string name="heavy_intensity_drizzle_rain">Heavy intensity drizzle rain</string>
+    <string name="rain_and_drizzle">Rain and drizzle</string>
+    <string name="heavy_rain_and_drizzle">Heavy rain and drizzle</string>
+    <string name="shower_drizzle">Shower drizzle</string>
+
+
+    <!-- Grupo 5xx: Rain -->
+    <!-- Group 5xx: Rain -->
+    <string name="light_rain">Light rain</string>
+    <string name="moderate_rain">Moderate rain</string>
+    <string name="heavy_intensity_rain">Heavy intensity rain</string>
+    <string name="very_heavy_rain">Very heavy rain</string>
+    <string name="extreme_rain">Extreme rain</string>
+    <string name="freezing_rain">Freezing rain</string>
+    <string name="light_shower_rain">Light intensity shower rain</string>
+    <string name="shower_rain">Shower rain</string>
+    <string name="heavy_shower_rain">Heavy intensity shower rain</string>
+    <string name="ragged_shower_rain">Ragged shower rain</string>
+
+
+    <!-- Group 6xx: Snow -->
+    <string name="light_snow">Light snow</string>
+    <string name="snow">Snow</string>
+    <string name="heavy_snow">Heavy snow</string>
+    <string name="sleet">Sleet</string>
+    <string name="light_shower_sleet">Light shower sleet</string>
+    <string name="shower_sleet">Shower sleet</string>
+    <string name="light_rain_and_snow">Light rain and snow</string>
+    <string name="rain_and_snow">Rain and snow</string>
+    <string name="light_shower_snow">Light shower snow</string>
+    <string name="shower_snow">Shower snow</string>
+    <string name="heavy_shower_snow">Heavy shower snow</string>
+
+
+    <!-- Group 7xx: Atmosphere -->
+    <string name="mist">Mist</string>
+    <string name="smoke">Smoke</string>
+    <string name="haze">Haze</string>
+    <string name="dust">Sand/dust whirls</string>
+    <string name="fog">Fog</string>
+    <string name="sand">Sand</string>
+    <string name="dust_2">Dust</string>
+    <string name="ash">Volcanic ash</string>
+    <string name="squall">Squalls</string>
+    <string name="tornado">Tornado</string>
+
+    <!-- Group 800: Clear -->
+    <string name="clear_sky">Clear sky</string>
+
+    <!-- Group 80x: Clouds -->
+    <string name="few_clouds">Few clouds: 11-25%</string>
+    <string name="scattered_clouds">Scattered clouds: 25-50%</string>
+    <string name="broken_clouds">Broken clouds: 51-84%</string>
+    <string name="overcast_clouds">Overcast clouds: 85-100%</string>
+</resources>
