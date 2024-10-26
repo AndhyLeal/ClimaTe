@@ -9,18 +9,19 @@
     tools:context=".MainActivity" >
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/img_load"
         android:layout_width="272dp"
         android:layout_height="408dp"
         android:layout_marginTop="1dp"
+        android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/sunny_view" />
+        app:srcCompat="@drawable/tema_climate" />
 
     <EditText
-        android:id="@+id/editTextTextMultiLine2"
+        android:id="@+id/txt_search_city"
         android:layout_width="360dp"
         android:layout_height="44dp"
         android:layout_marginTop="32dp"
@@ -39,19 +40,19 @@
         android:id="@+id/txt_city"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Itamarandiba - MG"
+        android:text="Nome da cidade"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+        app:layout_constraintTop_toBottomOf="@+id/img_load" />
 
     <TextView
         android:id="@+id/txt_temp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="28Cº"
+        android:text="Temperatura"
         android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -62,7 +63,7 @@
         android:id="@+id/txt_clima"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ensolarado"
+        android:text="Previsão"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -70,7 +71,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txt_temp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/bt_search_city"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
@@ -78,7 +79,7 @@
         android:text="Pesquisar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextMultiLine2" />
+        app:layout_constraintTop_toBottomOf="@+id/txt_search_city" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
